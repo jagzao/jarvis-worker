@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jw.Common\Jw.Common.csproj" />
+    <ProjectReference Include="..\Jw.Database\Jw.Database.csproj" />
+    <ProjectReference Include="..\Jw.Data\Jw.Data.csproj" />
+  </ItemGroup>
+
+</Project>

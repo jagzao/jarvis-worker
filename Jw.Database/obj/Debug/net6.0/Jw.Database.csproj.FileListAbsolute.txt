@@ -1,0 +1,14 @@
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\bin\Debug\net6.0\Jw.Database.deps.json
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\bin\Debug\net6.0\Jw.Database.runtimeconfig.json
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\bin\Debug\net6.0\Jw.Database.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\bin\Debug\net6.0\Jw.Database.pdb
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.csproj.AssemblyReference.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.AssemblyInfoInputs.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.AssemblyInfo.cs
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.csproj.CoreCompileInputs.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\refint\Jw.Database.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.pdb
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\Jw.Database.genruntimeconfig.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Database\obj\Debug\net6.0\ref\Jw.Database.dll

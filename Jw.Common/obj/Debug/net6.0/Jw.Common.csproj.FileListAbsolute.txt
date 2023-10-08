@@ -1,0 +1,11 @@
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\bin\Debug\net6.0\Jw.Common.deps.json
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\bin\Debug\net6.0\Jw.Common.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\bin\Debug\net6.0\Jw.Common.pdb
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.AssemblyInfoInputs.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.AssemblyInfo.cs
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.csproj.CoreCompileInputs.cache
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\refint\Jw.Common.dll
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\Jw.Common.pdb
+C:\Git\Jag\Triger\JarvisWorker\JarvisWorker\Jw.Common\obj\Debug\net6.0\ref\Jw.Common.dll
